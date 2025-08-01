@@ -6,6 +6,7 @@ body {
   backdrop-filter: blur(15px);
   text-align: center;
   color: white;
+  font-family: 'Arial', sans-serif;
 }
 
 i, h3{
@@ -16,4 +17,18 @@ ul>li {
   list-style-type: none;
   margin: 10px 0;
   margin-right: 40px;
+}
+
+button {
+  background-color: #fde56c;
+  border: 1px solid #fdf14a;
+  border-radius: 3px;
+  padding: 10px 20px;
+  color: #111;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+input {
+ cursor: pointer;
 }
