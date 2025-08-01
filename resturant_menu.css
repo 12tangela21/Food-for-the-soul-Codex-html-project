@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://scpr.brightspotcdn.com/dims4/default/f60d932/2147483647/strip/true/crop/3452x1942+0+370/resize/1200x675!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F91%2F1fb1281a4f6b917030601b447d9f%2Fimg-2544.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  backdrop-filter: blur(15px);
+  text-align: center;
+  color: white;
+}
+
+i, h3{
+  text-decoration: underline;
+}
+
+ul>li {
+  list-style-type: none;
+  margin: 10px 0;
+  margin-right: 40px;
+}
